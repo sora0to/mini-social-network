@@ -1,0 +1,22 @@
+.header {
+    grid-area: header;
+    background-color: #000;
+}
+
+.logoContainer {
+    width: 60px;
+    padding: 10px;
+}
+
+.logo {
+    font-size: 30px;
+    color: #fff;
+}
+
+.logo:hover {
+    cursor: pointer;
+    color: #000;
+    background-color: #fff;
+    border-radius: 5px;
+    transition: color 0.5s linear;
+}

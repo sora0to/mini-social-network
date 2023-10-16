@@ -1,0 +1,38 @@
+.profileContainer {
+    max-height: 400px;
+}
+
+.cover {
+    max-width: 100vh;
+}
+
+.coverImage {
+    width: 100vh;
+    height: 200px;
+}
+
+.profileInfo {
+    display: flex;
+    padding: 20px;
+}
+
+.avatarImage {
+    width: 80px;
+}
+
+.avatarContainer {
+    min-width: 150px;
+}
+
+.description{
+    justify-content: center;
+}
+
+.descriptionName{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.descriptionAboutMe{
+    max-width: 600px;
+}

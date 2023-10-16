@@ -1,0 +1,15 @@
+.postItem {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    max-width: 60px;
+    border-radius: 50%;
+    margin-right: 20px
+}
+
+.likeItem{
+    margin-left: 160px;
+}
